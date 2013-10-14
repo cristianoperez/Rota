@@ -1,6 +1,10 @@
 package br.com.maplink;
 
 public class RequestJSON {
+	
+	private RequestJSON() {
+	
+	}
 
 	public final static String REQUEST_JSON = "[" +
 											    "{" +
