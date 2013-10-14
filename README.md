@@ -5,7 +5,7 @@ Programa de console que utiliza maven feito para consumir o webservice de Rotas 
 
 RequestJSON.class representa o json com os dados de entrada no sistema.
 
-MainApp.class é o arquivo que deve ser executado para rodar o sistema.
+MainApp.class é o arquivo que deve ser executado para consumir o web service e retornar os dados no formato json no console.
 
 O pacote model contem as classes que representam os modelos de Request e Response.
 
